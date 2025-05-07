@@ -1,0 +1,7 @@
+<!DOCTYPE doctorinfo[
+<!ELEMENT doctorinfo (doctor*)>
+<!ELEMENT doctor(doctor_id,doctor_name,specialization)>
+<!ELEMENT doctor_id (#PCDATA)>
+<!ELEMENT doctor_name (#PCDATA)>
+<!ELEMENT specialization (#PCDATA)>
+]>
