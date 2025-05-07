@@ -1,0 +1,9 @@
+<!DOCTYPE login SYSTEM "default.dtd">
+<login>
+    <default> 10 </default>
+    <designedby> DEVADHARSHINI G </designedby>
+</login>
+
+<!ELEMENT login (default, designedby)>
+<!ELEMENT default (#PCDATA)>
+<!ELEMENT designedby (#PCDATA)>

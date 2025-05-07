@@ -1,0 +1,20 @@
+<xml>
+<doctorinfo>
+<doctor>
+<doctor_id> AKdco01 </doctor_id>
+<doctor_name> Milly </doctor_name>
+<specialization> Cardiologist </specialization>
+</doctor>
+<doctor>
+<doctor_id> AKdco02 </doctor_id>
+<doctor_name> Lucy </doctor_name>
+<specialization> Dermatologist </specialization>
+</doctor>
+<doctor>
+<doctor_id> AKdco03 </doctor_id>
+<doctor_name> Kevin </doctor_name>
+<specialization> Cardiologist </specialization>
+</doctor>
+</doctorinfo> 
+</xml>
+
